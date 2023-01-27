@@ -50,7 +50,7 @@ header > h1 {
     font-size: 3em;
     font-weight: normal;
     margin-bottom: 20px;
-    /*box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.041);*/
+    
 }
 
 header > p {
@@ -60,6 +60,7 @@ header > p {
     max-width: 600px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 50px;
     margin: auto;
     box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.021);
     
